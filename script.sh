@@ -1,2 +1,2 @@
 echo heyhey
-Coole Leute hier
+echo Coole Leute hier
