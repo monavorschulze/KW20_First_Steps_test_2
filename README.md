@@ -1,4 +1,3 @@
-# test_2
 # Backlog
 
 | **#** | **Sprints**         |
@@ -10,7 +9,7 @@
 
 # Content
 
-- [12.05.2020, Dienstag](/2020-05-10-monday.md)
+- [12.05.2020, tuesday](/2020-05-10-monday.md)
 
   - **Description**
     Create a tool to learn super cool new stuff
